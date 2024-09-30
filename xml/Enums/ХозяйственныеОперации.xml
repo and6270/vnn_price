@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Enum uuid="1a5e7284-9ef3-4fc4-89c2-23c48ba712d1">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ХозяйственныеОперации" category="Ref">
+				<xr:TypeId>e36c0ad4-715d-4d2e-9f31-49aea5a87ef7</xr:TypeId>
+				<xr:ValueId>9c36a039-e479-455d-9352-5d487bfeede1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ХозяйственныеОперации" category="Manager">
+				<xr:TypeId>f15dc5ba-1294-47ad-bd80-a5e57fb62492</xr:TypeId>
+				<xr:ValueId>866c6bdc-792a-49ea-a900-9904e1254e29</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ХозяйственныеОперации" category="List">
+				<xr:TypeId>f8e671d1-cc66-4bfb-9bd6-8d81c5a721ca</xr:TypeId>
+				<xr:ValueId>ca2d6545-a9bd-4794-8087-ae8622a80473</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ХозяйственныеОперации</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>deead3fa-ab5d-4010-899e-8e65d1165d33</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Enum>
+</MetaDataObject>

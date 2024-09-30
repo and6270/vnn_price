@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="0336ceb6-049a-45de-b2a0-f7e5a09bd200">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.УстановкаЦенНоменклатуры" category="Object">
+				<xr:TypeId>cc11f002-a20d-442a-860a-b3f7050923ec</xr:TypeId>
+				<xr:ValueId>f687ff3b-2161-48a4-8229-b345e94d22aa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.УстановкаЦенНоменклатуры" category="Ref">
+				<xr:TypeId>d029b9a4-2072-4d8e-95f7-191aef16fa1c</xr:TypeId>
+				<xr:ValueId>b4840dfa-672d-4640-a2e3-6b0e700a7886</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.УстановкаЦенНоменклатуры" category="Selection">
+				<xr:TypeId>734e77c9-e196-4da1-91cc-760b7a84a352</xr:TypeId>
+				<xr:ValueId>dc71b885-e852-4eca-aa54-ae57e456a727</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.УстановкаЦенНоменклатуры" category="List">
+				<xr:TypeId>10c5c3c7-e527-4131-b344-b65b739c8fe5</xr:TypeId>
+				<xr:ValueId>7c0cf280-646c-4a40-8e56-08c0269ea69c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.УстановкаЦенНоменклатуры" category="Manager">
+				<xr:TypeId>6158bbf5-2c18-4a8d-b902-2a4f3a74555f</xr:TypeId>
+				<xr:ValueId>fbffc83a-765a-4892-9194-df40eeaa179e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УстановкаЦенНоменклатуры</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>17dfc020-c526-4ff2-996b-5b1abda0826f</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

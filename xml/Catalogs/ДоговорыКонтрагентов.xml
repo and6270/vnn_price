@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="63474b3a-b3b3-4fda-9c0b-bc1f7df6a97f">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ДоговорыКонтрагентов" category="Object">
+				<xr:TypeId>f70b1acc-58d8-4993-9f03-60bcb946ce12</xr:TypeId>
+				<xr:ValueId>ddcd3d01-3fff-44c2-8bfd-212bad9306c8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ДоговорыКонтрагентов" category="Ref">
+				<xr:TypeId>921fdaa0-31a2-4928-9e1f-6682f3f935c5</xr:TypeId>
+				<xr:ValueId>40137c46-858b-4734-a71d-b6f19c52ecc8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ДоговорыКонтрагентов" category="Selection">
+				<xr:TypeId>d08838c9-d0e9-45c9-b242-4b68bfc45567</xr:TypeId>
+				<xr:ValueId>3a48f381-c003-4aec-a4ba-39c8655b1a9a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ДоговорыКонтрагентов" category="List">
+				<xr:TypeId>e9360b09-c2a8-4eed-a9fa-190eebdee89f</xr:TypeId>
+				<xr:ValueId>f4301afd-367e-4c6f-a588-774def877d08</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ДоговорыКонтрагентов" category="Manager">
+				<xr:TypeId>1e13773f-242f-4613-a65d-d8ade6d91db0</xr:TypeId>
+				<xr:ValueId>d0389cae-85c4-49aa-ab55-0a8554252cd0</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ДоговорыКонтрагентов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ca5788fc-a495-4a40-8a29-4ef15869af0a</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

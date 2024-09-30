@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Document uuid="1b4c669b-6a2b-4447-8bfe-124dea77806d">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ТТНВходящаяЕГАИС" category="Object">
+				<xr:TypeId>905d843f-b46f-49b2-9e46-1b650aa9677b</xr:TypeId>
+				<xr:ValueId>4528d9aa-1792-45f7-9757-5c2977c96ecc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ТТНВходящаяЕГАИС" category="Ref">
+				<xr:TypeId>9b399c2b-e9af-4c0a-ae86-7cc594ce7209</xr:TypeId>
+				<xr:ValueId>3979dffc-b300-44e7-bed4-32f68c4f73de</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ТТНВходящаяЕГАИС" category="Selection">
+				<xr:TypeId>4a4272ee-416b-4218-ba62-683f33e0337e</xr:TypeId>
+				<xr:ValueId>5e7dfbb9-dc8c-4a4c-8c6c-891509676fe3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ТТНВходящаяЕГАИС" category="List">
+				<xr:TypeId>5622e123-2b8b-464c-991e-efed31020665</xr:TypeId>
+				<xr:ValueId>03279345-b439-4f5b-b694-0f6a3ecf3b1a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ТТНВходящаяЕГАИС" category="Manager">
+				<xr:TypeId>3d571395-3272-4be3-b7dd-a5667f01aec9</xr:TypeId>
+				<xr:ValueId>c07af483-1f86-4c3c-b916-30b54f6fdac5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТТНВходящаяЕГАИС</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f533706f-45b2-4584-b97f-e6d2e7175c2e</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="9188fbfe-5bbd-4f10-8496-19ba801af6ab">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>УдалитьСтатусОбработки</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>6142c9ff-15e4-4e67-9244-a0312d03be05</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:EnumRef.СтатусыОбработкиТТНВходящейЕГАИС</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

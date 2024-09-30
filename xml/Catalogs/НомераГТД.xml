@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.17">
+	<Catalog uuid="0551941d-43da-4eee-910c-3d0c9fead748">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НомераГТД" category="Object">
+				<xr:TypeId>447cf883-8413-4458-9f9d-56c78af2ce1b</xr:TypeId>
+				<xr:ValueId>c208382d-a939-440d-9a25-93452274fdb0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НомераГТД" category="Ref">
+				<xr:TypeId>dbc9a0bf-bc3a-45d1-b41d-21a8f6bf09a6</xr:TypeId>
+				<xr:ValueId>d5a5c05b-3249-493b-9cb0-57e3288d2643</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НомераГТД" category="Selection">
+				<xr:TypeId>5853b258-d636-42bb-9194-652e79f71805</xr:TypeId>
+				<xr:ValueId>4352774c-e7f1-4bef-9dcd-96b886731298</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НомераГТД" category="List">
+				<xr:TypeId>e8518173-c8e9-4e68-828e-e71cc815c28a</xr:TypeId>
+				<xr:ValueId>dbbbfa84-5cfe-40f9-943c-6e599c3fc311</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НомераГТД" category="Manager">
+				<xr:TypeId>b47e4374-cfc2-46e2-b953-029573a843aa</xr:TypeId>
+				<xr:ValueId>d4519207-eb57-4740-8972-a93b8b0c9c7a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НомераГТД</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>74f2c826-cd58-4c89-9486-17f3fdc2b405</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="5c668b8d-3c66-4e29-b1df-281fae9c3302">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>СтранаПроисхождения</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>770fd476-d444-46bb-8e4b-dee9f950530f</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.СтраныМира</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>
